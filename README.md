@@ -1,11 +1,13 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+slab&size=40&color=673D0C&center=true&vCenter=true&repeat=false&width=435&height=70&lines=HJ+LEE's+profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+slab&size=20&color=673D0C&center=true&vCenter=true&repeat=false&width=435&height=30&lines=HJ+LEE's+profile" alt="Typing SVG" /></a>
 </p>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98086074/215005917-c816587b-7b13-4d14-90df-1b0711a80299.jpeg" alt="등반" width="number" />
+  <img src="https://user-images.githubusercontent.com/98086074/215013816-34e61571-3c7c-4b19-94c3-c24aeaaf5628.jpeg" alt="등반" width="number" />
 </p>
+
+
   
   
 ### Skills & Tools
@@ -17,6 +19,3 @@
 ### Projects
 <code><img alt = "어제보다" height="20" src="https://user-images.githubusercontent.com/98086074/215006218-1279baf9-6a18-424a-bf03-b0d12298342d.png">어제보다</code> : WeatherKit을 이용한 어제 날씨 비교 앱<br>
 <code><img alt = "RamenTimer" height="20" src="https://user-images.githubusercontent.com/98086074/215006312-07873830-9255-4972-ba7f-89266e2e2230.png"> RamenTimer</code> : 커스텀 가능한 라면 타이머 앱
-
-### Status
-![HJLEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJLee-22&show_icons=true&theme=swift)
